@@ -1,2 +1,2 @@
 # Blinkit_Analysis_Dashboard
-This project is an Excel-based interactive sales analysis dashboard for Blinkit, India's last-minute delivery app. The dashboard provides key insights into sales performance, item categories, outlet sizes, and other business metrics.
+This project is an Excel-based interactive sales analysis dashboard, created for learning and demonstration purposes. The data used in this dashboard is dummy data and does not represent actual company figures.
