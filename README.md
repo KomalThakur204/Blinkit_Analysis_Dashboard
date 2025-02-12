@@ -26,3 +26,14 @@ The objective of this project is to create an Excel-based interactive sales anal
   Objective: Provide a comprehensive view of all key metrics (Total Sales, Average 
   Sales, Number of Items, Average Rating) broken down by different outlet types.
 
+- Dashboard Interaction <a href="https://github.com/KomalThakur204/Blinkit_Analysis_Dashboard/blob/main/Dashboard.png">View Dashboard</a>
+## How to use:
+- Clone or Download the repository.
+- Open the Excel file in Microsoft Excel.
+- Interact with the dashboard using available filters to analyze different sales   
+  aspects.
+- Modify the dataset to see real-time updates reflected in the dashboard.
+## Dashboard:
+![Dashboard](https://github.com/user-attachments/assets/57664cf3-567f-493e-aa97-e3c7272b6da9)
+## Conclusion:
+This project demonstrates how an Excel-based dashboard can be used to analyze sales data efficiently. It provides insights into total sales, outlet performance, product categories, and yearly trends. Using pivot tables, charts, and filters, the dashboard makes data visualization simple and interactive. This approach helps in understanding sales patterns and making informed decisions.
